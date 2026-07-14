@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Martin Subash Surya SR
+logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
