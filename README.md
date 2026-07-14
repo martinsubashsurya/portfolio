@@ -19,5 +19,5 @@
 
 ## Publications
 1. Co-authored Abstract Poster for ISPOR 2025: “Healthcare Resource Utilization and Associated Costs in Patients With Transthyretin Cardiac Amyloidosis and Non-amyloid Heart Failure” - [Link](https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2025/poster-session-4/healthcare-resource-utilization-and-associated-costs-in-patients-with-transthyretin-cardiac-amyloidosis-and-non-amyloid-heart-failure)
-2.  Published Research Paper: Authored “Energy of Gravitational Waves in Black Hole Collisions” in IJSR, analyzing LIGO observatory data to graph deviations against theoretical models - [Link](
+2.  Published Research Paper: Authored “Energy of Gravitational Waves in Black Hole Collisions” in IJSR, analyzing LIGO observatory data to graph deviations against theoretical models - [Link](https://www.ijsr.net/archive/v11i10/SR221007133908.pdf)
 
